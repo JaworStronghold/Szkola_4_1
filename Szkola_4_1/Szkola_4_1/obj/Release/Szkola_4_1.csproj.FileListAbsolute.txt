@@ -1,0 +1,10 @@
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\bin\Release\Szkola_4_1.exe.config
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\bin\Release\Szkola_4_1.exe
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\bin\Release\Szkola_4_1.pdb
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.csprojResolveAssemblyReference.cache
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.Form1.resources
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.Properties.Resources.resources
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.csproj.GenerateResource.cache
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.csproj.CoreCompileInputs.cache
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.exe
+C:\Pojemnik na pliki\Programowanie\Csharp\Szkoła\Szkola_4_1\Szkola_4_1\obj\Release\Szkola_4_1.pdb
